@@ -4,7 +4,7 @@ This is a homelab created following Day CyberWox’s blueprint and documentation
 
 The lab was created using VMWare Workstation Pro 17 - VMWare offers a 30-day free trial, which is what I used.
 
-**Network topology:**:
+**Network topology:**
 ![image](https://github.com/Samin325/Home-Lab-Blue/assets/88060791/4ddbcad0-aab4-4b07-9721-1317100daf13)
 
 
@@ -25,6 +25,12 @@ Login activity logs on Splunk:
 Nmap scan from the Kali attack box:
 
 ![image](https://github.com/Samin325/Home-Lab-Blue/assets/88060791/8bf8966e-ba8b-4e57-a5d0-14f164fbe721)
+
+pfSense dashboard and sample firewall rule:
+
+![image](https://github.com/Samin325/Home-Lab-Blue/assets/88060791/aa744205-73a5-4466-9c7e-b02558b2e6a8)
+
+![image](https://github.com/Samin325/Home-Lab-Blue/assets/88060791/ac8e433f-9eaa-4bec-8d6f-a4eadcfaa162)
 
 Some Security Onion pages/tools:
 
