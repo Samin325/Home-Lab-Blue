@@ -2,7 +2,7 @@
 
 This homelab was created following Day CyberWox’s blueprint and documentation, available on his [website](https://cyberwoxacademy.com/building-a-cybersecurity-homelab-for-detection-monitoring/). It’s been changed slightly to use more recent software versions and technologies. 
 
-The lab was created using VMWare Workstation Pro 17 - VMWare offers a 30-day free trial, which is what I used. 
+The lab was created using VMware Workstation Pro 17. VMware offers a 30-day free trial, which is what I used. 
 
 In this lab:
 - pfSense is configured to act as the firewall, router, and DHCP server
