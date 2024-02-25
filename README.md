@@ -30,7 +30,7 @@ Login activity logs on Splunk:
 
 Nmap scan from the Kali attack box:
 
-![image](https://github.com/Samin325/Home-Lab-Blue/assets/88060791/8bf8966e-ba8b-4e57-a5d0-14f164fbe721)
+![image](https://github.com/Samin325/Home-Lab-Blue/assets/88060791/2d290925-7186-4e1c-892e-d37046d0ae55)
 
 pfSense dashboard and sample firewall rule:
 
